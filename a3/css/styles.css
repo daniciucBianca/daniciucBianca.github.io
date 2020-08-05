@@ -1,0 +1,74 @@
+header h2{
+	text-align: center;
+	position: relative;
+	top: 30px;
+	left: 0;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: black;
+	font-size: 50px;
+}
+
+body{
+	font-size: 20px;
+	color: black;
+	background-color: #FBEEC1;
+}
+
+.navbar{
+	background-color: #659DBD;
+}
+
+.navbar-brand{
+	position: relative;
+	color: black;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 30px;
+}
+
+
+.data h2{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	background-color: #daad86;
+	text-align: center;
+	position: relative;
+	top: 30px;
+	left: 0;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: black;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 40px 15px 15px 15px;
+	width: 90%;
+}
+
+.data p {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	background-color: #daad86;
+	width: 90%; /*only the width so that the box will adjust around the text*/
+	margin-right: auto;
+	margin-left: auto;
+	padding: 40px 15px 15px 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -30px;
+}
+
+#nav-list {
+	margin-top: 10px; 
+}
+
+#details a {
+	border: 1px solid black;
+	color: black;
+	text-align: center;
+}
